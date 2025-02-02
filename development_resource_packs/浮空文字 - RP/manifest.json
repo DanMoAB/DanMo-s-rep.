@@ -1,0 +1,24 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "bilibili@ 孤独的作者",
+    "name": "浮空文字 - RP",
+    "uuid": "2b76b1ed-52b0-4da8-8f3c-bcdd9ff580ee",
+    "version": [ 1, 0, 1 ],
+    "min_engine_version": [ 1, 21, 51]
+  },
+  "modules": [
+    {
+      "description": "nm",
+      "type": "resources",
+      "uuid": "3d3805eb-7cef-42f6-aeb0-66d10d93b203",
+      "version": [ 1, 0, 1 ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "156825c5-d455-4c1d-857b-3c8341f1584d",
+      "version": [ 1, 0, 1 ]
+    }
+  ]
+}

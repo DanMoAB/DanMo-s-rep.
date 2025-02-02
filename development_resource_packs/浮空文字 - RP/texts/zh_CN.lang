@@ -1,0 +1,4 @@
+item.spawn_egg.entity.mod:entity_name.name=生成 Entity Name (请改名后使用)
+item.spawn_egg.entity.mod:kill_entity_name.name=杀死 Entity Name
+
+entity.mod:entity_name.name=Name

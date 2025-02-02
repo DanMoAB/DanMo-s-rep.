@@ -1,0 +1,12 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "entity_name": {
+      "textures": "textures/items/egg_entity_name"
+    },
+    "kill_entity_name": {
+      "textures": "textures/items/egg_kill_entity_name"
+    }
+  }
+}

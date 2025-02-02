@@ -1,0 +1,3 @@
+item.spawn_egg.entity.mod:entity_name.name=Spawn Entity Name
+item.spawn_egg.entity.mod:kill_entity_name.name=kill Entity Name
+entity.mod:entity_name.name=Name

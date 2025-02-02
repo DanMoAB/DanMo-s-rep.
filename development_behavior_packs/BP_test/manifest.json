@@ -1,0 +1,17 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "DanMoAB's Function Pack",
+        "description": "A function package for DanMoAB's attempt, and it's a work in progress.",
+        "uuid": "1e514dc5-b8be-436a-9e4f-4778802d0dcc",
+        "version": [ 1, 0, 0 ],
+        "min_engine_version": [ 1, 21, 51 ]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "bade3853-7d08-4a1b-ba9c-ba23e0856081",
+            "version": [ 1, 0, 0 ]
+        }
+    ]
+}

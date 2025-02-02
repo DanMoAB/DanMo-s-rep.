@@ -1,0 +1,19 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Function Pack",
+
+        "description": "A function package for Jiang Anpu's attempt, and it's a work in progress.",
+
+        "uuid": "59a74b69-6c85-4d4d-b8e5-42f686c23f55",
+        "version": [ 1, 0, 0 ],
+        "min_engine_version": [ 1, 21, 51 ]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "f6a962a6-6b3a-466b-9d18-cfd02068303d",
+            "version": [ 1, 0, 0 ]
+        }
+    ]
+}
